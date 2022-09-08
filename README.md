@@ -14,36 +14,36 @@
 <code>$ git clone https://github.com/JoneCoder/catalog.git</code>
 
 
->Second change the directory this command:
+>Second change the directory this command:<br/>
 <code>$ cd catalog/</code>
 
->Make mysql directory this command:
+>Make mysql directory this command:<br/>
 <code>$ mkdir mysql</code>
 
->Build & run project on detach  with "Docker" this command:
+>Build & run project on detach  with "Docker" this command:<br/>
 <code>$ sudo docker-compose build && sudo docker-compose up -d</code>
 
->Now change the directory this command:
+>Now change the directory this command:<br/>
 <code>$ cd src/</code>
 
->Than copy the .env.example file to .env flowing command:
+>Than copy the .env.example file to .env flowing command:<br/>
 <code>$ cp .env.example .env</code></>
 
->Now update composer for install laravel vendor:
+>Now update composer for install laravel vendor:<br/>
 <code>$ sudo docker-compose run --rm composer install</code>
 
->If composer installing done than you generate application key for this command:
+>If composer installing done than you generate application key for this command:<br/>
 <code>$ sudo docker-compose run --rm artisan key:generate</code>
 
->Migrate a database run the flowing command:
+>Migrate a database run the flowing command:<br/>
 <code>$ sudo docker-compose run --rm artisan migrate</code>
 
 
->Install and run npm this command:
+>Install and run npm this command:<br/>
 <code>$ sudo docker-compose run --rm npm install && npm run dev</code>
 
 
->If you done all stuffs than open your favorite browser hit localhost port 8082:
+>If you done all stuffs than open your favorite browser hit localhost port 8082:<br/>
 <code>http://localhost:8082</code>
 
->Enjoy this service Ajax.
+>Enjoy this service.
