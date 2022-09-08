@@ -1,6 +1,6 @@
 # Catalog:
 
-<p>Catalog is a microservice for "Inventory System". This service serve category wise "Products".</p>
+- Catalog is a microservice for **Inventory System**. This service serve category wise **Products**.
 
 <img src="files/img/preview.gif" alt="preview.gif" />
 
