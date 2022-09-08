@@ -27,7 +27,7 @@
 <code>$ cd src/</code>
 
 >Than copy the .env.example file to .env flowing command:<br/>
-<code>$ cp .env.example .env</code></>
+<code>$ cp .env.example .env</code>
 
 >Now update composer for install laravel vendor:<br/>
 <code>$ sudo docker-compose run --rm composer install</code>
