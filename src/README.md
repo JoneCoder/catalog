@@ -13,5 +13,5 @@
 <code>$ sudo docker-compose run --rm npm install vite</code>
 
 >Build & run npm:<br/>
-<code>$ sudo docker-compose run --rm npm watch</code>
+<code>$ sudo docker-compose run --rm npm run watch</code>
 
