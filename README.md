@@ -20,7 +20,7 @@
 >Make mysql directory this command:<br/>
 <code>$ mkdir mysql</code>
 
->Build & run project on detach  with "Docker" this command:<br/>
+>Build & run project on detach mode with "Docker" this command:<br/>
 <code>$ sudo docker-compose build && sudo docker-compose up -d</code>
 
 >Now change the directory this command:<br/>
